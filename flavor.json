@@ -1,0 +1,40 @@
+{
+  "id": "centro-demo",
+  "extends": "centro",
+  "brand": {
+    "name": "CENTRO",
+    "title": "CENTRO (demo)",
+    "description": "Demo Center — reuniões, consulta e anotação",
+    "cta": {
+      "pt": "Aprenda · Assimile · Pratique · Instrua",
+      "en": "Learn · Assimilate · Practice · Instruct"
+    },
+    "tagline": {
+      "pt": "comunidade em estudo (demo)",
+      "en": "community in study (demo)"
+    },
+    "themeColor": "#da2f2f",
+    "accent": "#da2f2f",
+    "mark": "./assets/mark.svg"
+  },
+  "hosts": [
+    "centro.doutrina.org",
+    "www.centro.doutrina.org"
+  ],
+  "catalog": {
+    "pinFirst": ["manual"],
+    "includeProfiles": ["centro", "doutrina"]
+  },
+  "features": {
+    "providers": ["luz", "encyc", "dict", "bible", "kardec"],
+    "jaas": true,
+    "hypothesis": true
+  },
+  "integrations": {
+    "jaas": {
+      "appId": "",
+      "room": "centro-demo-reuniao",
+      "tokenUrl": ""
+    }
+  }
+}
