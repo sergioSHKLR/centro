@@ -4,10 +4,10 @@
   "brand": {
     "name": "CENTRO",
     "title": "CENTRO (demo)",
-    "description": "Demo Center — reuniões, consulta e anotação",
+    "description": "Demo Center \u2014 reuni\u00f5es, consulta e anota\u00e7\u00e3o",
     "cta": {
-      "pt": "Aprenda · Assimile · Pratique · Instrua",
-      "en": "Learn · Assimilate · Practice · Instruct"
+      "pt": "Aprenda \u00b7 Assimile \u00b7 Pratique \u00b7 Instrua",
+      "en": "Learn \u00b7 Assimilate \u00b7 Practice \u00b7 Instruct"
     },
     "tagline": {
       "pt": "comunidade em estudo (demo)",
@@ -15,18 +15,29 @@
     },
     "themeColor": "#da2f2f",
     "accent": "#da2f2f",
-    "mark": "./assets/mark.svg"
+    "mark": "./instance/mark.svg"
   },
   "hosts": [
     "centro.doutrina.org",
     "www.centro.doutrina.org"
   ],
   "catalog": {
-    "pinFirst": ["manual"],
-    "includeProfiles": ["centro", "doutrina"]
+    "pinFirst": [
+      "manual"
+    ],
+    "includeProfiles": [
+      "centro",
+      "doutrina"
+    ]
   },
   "features": {
-    "providers": ["luz", "encyc", "dict", "bible", "kardec"],
+    "providers": [
+      "luz",
+      "encyc",
+      "dict",
+      "bible",
+      "kardec"
+    ],
     "jaas": true,
     "hypothesis": true
   },
