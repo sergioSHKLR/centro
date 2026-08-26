@@ -47,6 +47,7 @@ GitHub Pages **deployment mirror** of `librus-shell` `dist/` for **https://centr
 1. **Site:** [centro.doutrina.org](https://centro.doutrina.org)  
 2. **Flavor:** `centro` (codification + pinned center manual)  
 3. **UI source:** [`librus-shell`](https://github.com/sergioSHKLR/librus-shell)  
+4. **Live beta UX** (owned by shell): narrow screens blocked; first-visit Device/How to onboard — see [`librus-shell` README](https://github.com/sergioSHKLR/librus-shell).  
 
 ## 📁 What CI preserves
 
@@ -101,6 +102,7 @@ Espelho de publicação (GitHub Pages) do `dist/` de `librus-shell` em **https:/
 1. **Site:** [centro.doutrina.org](https://centro.doutrina.org)  
 2. **Sabor:** `centro`  
 3. **UI:** [`librus-shell`](https://github.com/sergioSHKLR/librus-shell)  
+4. **UX beta ao vivo** (no shell): telas estreitas bloqueadas; onboard Dispositivo/Como usar na 1ª visita — ver [README do librus-shell](https://github.com/sergioSHKLR/librus-shell).  
 
 ## 📁 O que o CI preserva
 
