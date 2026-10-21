@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://doutrina.org/library</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://doutrina.org/books/lde</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://doutrina.org/books/ldm</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://doutrina.org/books/ese</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://doutrina.org/books/ceu</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://doutrina.org/books/gen</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://centro.doutrina.org/library</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://centro.doutrina.org/books/centro</loc><lastmod>2026-10-21</lastmod></url>
 </urlset>
